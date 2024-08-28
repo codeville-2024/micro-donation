@@ -258,3 +258,12 @@ br {
 #word-1{
   background-color: #F9FAFC;
 }
+
+#num{
+  font-family: DM Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 29.7px;
+text-align: left;
+
+}
