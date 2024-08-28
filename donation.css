@@ -255,15 +255,29 @@ br {
   gap: 700px;
 }
 
-#word-1{
-  background-color: #F9FAFC;
+#word-1 {
+  background-color: #f9fafc;
 }
 
-#num{
+#num {
   font-family: DM Sans;
-font-size: 18px;
-font-weight: 700;
-line-height: 29.7px;
-text-align: left;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 29.7px;
+  text-align: left;
+}
+
+#word-2 {
+  display: flex;
+  column-gap: 36px;
+}
+
+.word-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+#kk{
+ align-items: center;
 
 }
