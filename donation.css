@@ -279,5 +279,23 @@ br {
 
 #kk{
  align-items: center;
+}
+
+#humantarian-mission-platform-words{
+  padding: 50px;
+}
+
+#our-parnter-words{
+  /* width: 960px;
+height: 90px;
+top: 4135px;
+left: 205px;
+gap: 0px;
+opacity: 0px; */
+
+width: 1051px;
+height: 415px;
+top: 4105px;
+left: 205px;
 
 }
