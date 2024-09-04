@@ -277,7 +277,81 @@ br {
   flex-direction: column;
 }
 
-#kk{
- align-items: center;
+#kk {
+  align-items: center;
+}
 
+#humantarian-mission-platform-words {
+  padding: 50px;
+}
+
+#our-parnter {
+  /* width: 960px;
+height: 90px;
+top: 4135px;
+left: 205px;
+gap: 0px;
+opacity: 0px; */
+  width: 1051px;
+  height: 415px;
+  top: 4105px;
+  left: 205px;
+}
+#our-parnter-images {
+  width: 879.12px;
+  height: 209.96px;
+}
+
+#our-parnter {
+  margin-left: 205px;
+}
+
+#our-parnter-images-words {
+  border: 1px solid rgb(240, 239, 239);
+  /* background-color:wheat  ;
+  width: 160px;
+  height: 204px;
+  top: 4316px;
+  left: 1096px;
+  gap: 0px;
+  border-radius: 5px ;
+  opacity: 0px; */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 204px;
+  width: 160px;
+  border-radius: 5px;
+}
+
+#our-parnter-flex {
+  display: flex;
+  align-items: center;
+  height: 209.96px;
+}
+
+#our-parnter-images-1 {
+  align-items: center;
+  margin-top: 80px;
+}
+
+#about-me {
+  background-color: black;
+  margin-top: 400px;
+  padding: 25px;
+}
+
+#about-me-words {
+  display: flex;
+}
+
+#about-me-words-3 {
+  color: white;
+  margin-left: 80px;
+}
+
+#about-me-words-2 {
+  color: white;
+  margin-left:80px ;
 }
